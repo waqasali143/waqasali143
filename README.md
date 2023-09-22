@@ -20,7 +20,7 @@
 - 📫 How to reach me **waqasali4243332@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sicial Link:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/rwaqasalipk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rwaqasalipk/" height="30" width="40" /></a>
 
