@@ -54,5 +54,4 @@ Preston University, (Pakistan)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasali143&show_icons=true&locale=en&layout=compact" alt="waqasali143" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqasali143&show_icons=true&locale=en" alt="waqasali143" /></p>
 
