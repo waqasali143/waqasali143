@@ -43,6 +43,9 @@ Verify: https://coursera.org/verify/7KG9M7LAPBU9<br>
 <strong>Databases and SQL for Data Science with Python</strong> Issued  by: 
 Coursera|Authorized by: IBM<br>
 Verify: https://coursera.org/verify/DAN2MCKXLSY8<br>
+<strong>Data Analysis with Python</strong> Issued  by: 
+Coursera|Authorized by: IBM<br>
+Verify: https://coursera.org/verify/8LW4VDGMW8PC<br>
 <br>
 <h3 align="left">Education:</h3>
 Bachelor of Technology: Electrical - 2012 to 2014
