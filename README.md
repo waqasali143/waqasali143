@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WAQAS ALI</h1>
-<h3 align="center">Python developer & Data Scientist</h3>
+<h3 align="center">AI Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasali143&label=Profile%20views&color=0e75b6&style=flat" alt="waqasali143" /> </p>
 <h3 align="left">About:</h3>
