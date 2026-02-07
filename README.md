@@ -12,10 +12,8 @@
   
 <strong>Programming:</strong> I am proficient in a programming language like Python, and have experience in data manipulation, analysis, and modeling.Deep Knowledge of Data Analysis with Python
 </p>
-
-- 🔭 I’m currently working on **Data Science Project**
-
-- 🌱 I’m currently learning **Data Science from Coursera & AI from PIAIC**
+<h3>check my repositories for my work</h3>
+- 🌱 Diploma Of <b>AI Developer</b> from Presidential Initiative for Artificial Intelligence & Computing (PIAIC)
 
 - 📫 How to reach me **waqasali4243332@gmail.com**
 
@@ -48,6 +46,7 @@ Coursera|Authorized by: IBM<br>
 Verify: https://coursera.org/verify/8LW4VDGMW8PC<br>
 <br>
 <h3 align="left">Education:</h3>
+BS Computer Science From Virtual University Pakistan (Continue)<br>
 Bachelor of Technology: Electrical - 2012 to 2014
 Preston University, (Pakistan)
 <p>
